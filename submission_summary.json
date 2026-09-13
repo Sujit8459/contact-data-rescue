@@ -1,0 +1,14 @@
+{
+  "candidate_id": "CN-1784",
+  "metrics": {
+    "total_contacts": 106,
+    "voice_contacts": 30,
+    "chat_contacts": 25,
+    "email_contacts": 23,
+    "unknown_channel_contacts": 28,
+    "average_wait_seconds": 109.98,
+    "p90_wait_seconds": 199.3,
+    "abandonment_rate_pct": 22.64,
+    "resolution_rate_pct": 25.47
+  }
+}

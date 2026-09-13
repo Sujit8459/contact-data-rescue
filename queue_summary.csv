@@ -1,0 +1,7 @@
+queue,contacts,average_wait_seconds,abandonment_rate_pct
+billing,27,114.5,22.22
+sales,21,104.95,33.33
+support,20,107.42,5.0
+technical,19,117.16,26.32
+retention,11,94.75,36.36
+unassigned,8,113.25,12.5

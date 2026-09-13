@@ -1,0 +1,181 @@
+contact_id,started_at,channel,queue,agent_id,wait_seconds,handle_seconds,outcome,customer_message,customer_rating
+CN-1784-CT-0146,2026-07-01T05:56:00+00:00,email, Sales ,A003,89,813,resolved,The previous agent transferred me,5
+CN-1784-CT-0047,2026-07-02T06:21:00+00:00,chat, Billing ,A001,-26,429,abandoned,The previous agent transferred me,3
+CN-1784-CT-0027,2026-07-07T04:38:00+00:00,voice,,A012,164,359,transferred,Please call me back,2
+CN-1784-CT-0148,2026-07-08T21:09:00+00:00, CHAT ,billing,A008,147,341,unresolved,I was charged twice for the same order,1
+CN-1784-CT-0026,2026-07-05T18:12:00+00:00,,billing,A012,0,0,abandoned,The issue is now resolved,3
+CN-1784-CT-0156,2026-07-02T05:25:00+00:00,social,support,A010,1,263, TRANSFERRED ,I think this transaction is fraud,3
+CN-1784-CT-0149,2026-07-02T08:46:00+00:00, CHAT ,support,A004,194,239,resolved,,
+CN-1784-CT-0077,2026-07-07T08:15:00+00:00,email, Sales ,A005,107,125,unresolved,Need help with my account,
+CN-1784-CT-0140,2026-07-07T05:48:00+00:00, EMAIL ,technical,A010,61,0,abandoned,Please explain the latest invoice,
+CN-1784-CT-0161,2026-07-06T20:07:00+00:00,, Technical ,A003,74,742,callback,Please call me back,2
+CN-1784-CT-0114,2026-07-07T01:28:00+00:00,chat,sales,,53,744,transferred,Please explain the latest invoice,1.2
+CN-1784-CT-0032,2026-07-06T10:30:00+00:00,,billing,A012,197,0,abandoned,Unable to reset my password,
+CN-1784-CT-0082,2026-07-07T18:11:00+00:00,email,sales,A008,41,755,unresolved,,1
+CN-1784-CT-0129,2026-07-04T19:23:00+00:00, VOICE , Support ,,175,652,transferred,Please call me back,
+CN-1784-CT-0069,2026-07-04T13:05:00+00:00, EMAIL ,billing,A011,196,303,resolved,,3
+CN-1784-CT-0067,2026-07-05T17:25:00+00:00, VOICE ,support,A006,192,793,transferred,I was charged twice for the same order,5
+CN-1784-CT-0147,2026-07-01T17:38:00+00:00,, Technical ,A010,200,272, TRANSFERRED ,Please explain the latest invoice,5
+CN-1784-CT-0165,2026-07-02T00:14:00+00:00, VOICE , Technical ,A007,183,818, RESOLVED ,The previous agent transferred me,4
+CN-1784-CT-0021,2026-07-05T09:28:00+00:00, EMAIL , Billing ,A002,81,247, RESOLVED ,Need help with my account,
+CN-1784-CT-0147,2026-07-07T05:38:00+00:00,voice,billing,A011,98,33,callback,Please process a refund,1
+CN-1784-CT-0092,2026-07-08T23:45:00+00:00, EMAIL ,support,A005,89,746,callback,Please process a refund,
+CN-1784-CT-0100,2026-07-04T20:18:00+00:00,voice, Sales ,A008,113,813,abandoned,Unable to reset my password,5
+CN-1784-CT-0116,2026-07-02T12:36:00+00:00,social,retention,A007,174,440,callback,I was charged twice for the same order,2
+CN-1784-CT-0146,2026-07-01T15:30:00+00:00,social,billing,A009,-26,686,resolved,The previous agent transferred me,3
+CN-1784-CT-0046,2026-07-05T02:30:00+00:00,, Technical ,A009,196,64, RESOLVED ,I was charged twice for the same order,
+CN-1784-CT-0150,2026-07-02T23:41:00+00:00, CHAT ,,,50,255,abandoned,I think this transaction is fraud,5
+CN-1784-CT-0123,2026-07-02T05:35:00+00:00, CHAT ,retention,A006,28,570,unresolved,I think this transaction is fraud,1
+CN-1784-CT-0039,2026-07-08T21:44:00+00:00,email,retention,A002,10,284,abandoned,I think this transaction is fraud,2
+CN-1784-CT-0106,2026-07-08T08:08:00+00:00,,support,,137,798,callback,Need help with my account,3
+CN-1784-CT-0042,2026-07-02T21:19:00+00:00, EMAIL ,support,A002,130,857,unresolved,The application is not loading,2
+CN-1784-CT-0163,2026-07-04T10:11:00+00:00,chat, Sales ,A009,138,375,resolved,I want to know the current plan,
+CN-1784-CT-0129,2026-07-06T07:51:00+00:00,,technical,A012,146,803,transferred,The previous agent transferred me,3
+CN-1784-CT-0039,2026-07-03T04:59:00+00:00,chat,sales,A006,52,337, RESOLVED ,Unable to reset my password,5
+CN-1784-CT-0105,2026-07-04T01:17:00+00:00,email,billing,A004,115,684,transferred,I was charged twice for the same order,
+CN-1784-CT-0154,2026-07-04T20:03:00+00:00,voice,retention,A012,unknown,557, RESOLVED ,Need help with my account,
+CN-1784-CT-0042,2026-07-01T06:10:00+00:00,chat, Billing ,A008,37,619, TRANSFERRED ,Unable to reset my password,2
+CN-1784-CT-0155,2026-07-04T05:46:00+00:00,email,billing,A007,83,663, RESOLVED ,The previous agent transferred me,4
+CN-1784-CT-0131,2026-07-07T08:28:00+00:00,chat, Sales ,A007,53,0,resolved,Need help with my account,3
+CN-1784-CT-0045,2026-07-01T11:13:00+00:00,social,billing,A011,42,299, TRANSFERRED ,The previous agent transferred me,5
+CN-1784-CT-0029,2026-07-07T03:22:00+00:00,, Sales ,A003,151,268,abandoned,,
+CN-1784-CT-0107,2026-07-01T19:12:00+00:00,social,technical,A004,80,273,abandoned,Please call me back,3
+CN-1784-CT-0088,2026-07-07T15:35:00+00:00,chat, Billing ,A010,151,829,abandoned,Please process a refund,5
+CN-1784-CT-0014,2026-07-06T13:03:00+00:00, VOICE , Sales ,A010,unknown,815, TRANSFERRED ,I think this transaction is fraud,2
+CN-1784-CT-0160,2026-07-08T12:23:00+00:00,email, Technical ,A004,211,28, TRANSFERRED ,I was charged twice for the same order,3
+CN-1784-CT-0085,2026-07-01T19:56:00+00:00,email,,A008,8,178,transferred,I was charged twice for the same order,2
+CN-1784-CT-0082,2026-07-08T16:40:00+00:00,voice,billing,A002,77,841,abandoned,I think this transaction is fraud,3
+CN-1784-CT-0100,06/07/2026 23:42,email,technical,A010,179,217,unresolved,Please process a refund,
+CN-1784-CT-0161,2026-07-02T21:59:00+00:00,email, Support ,,216,728, TRANSFERRED ,The issue is now resolved,3
+CN-1784-CT-0108,2026-07-07T08:45:00+00:00, VOICE , Billing ,,186,250,abandoned,I think this transaction is fraud,3
+CN-1784-CT-0170,2026-07-02T11:39:00+00:00,,,A011,158,353,resolved,Please process a refund,4
+CN-1784-CT-0043,2026-07-03T04:28:00+00:00,voice, Sales ,A007,57,320,abandoned,Please explain the latest invoice,1
+CN-1784-CT-0061,2026-07-07T00:22:00+00:00,voice, Support ,A006,25,25,unresolved,Please explain the latest invoice,5
+CN-1784-CT-0008,2026-07-04T21:02:00+00:00,chat,billing,A011,87,872,transferred,The application is not loading,4
+CN-1784-CT-0024,2026-07-01T00:16:00+00:00, VOICE ,technical,,90,255,callback,Question about a new subscription,5
+CN-1784-CT-0048,2026-07-01T19:03:00+00:00, VOICE ,billing,A004,139,830,unresolved,Need help with my account,
+CN-1784-CT-0144,07/07/2026 18:47,voice,retention,A011,117,722,resolved,Please call me back,0
+CN-1784-CT-0038,2026-07-03T00:31:00+00:00, CHAT ,support,A007,87,582, RESOLVED ,The issue is now resolved,2
+CN-1784-CT-0130,2026-07-04T07:38:00+00:00,chat,retention,A001,6,590,abandoned,Unable to reset my password,3
+CN-1784-CT-0152,2026-07-06T18:59:00+00:00,voice,,A009,67,688, TRANSFERRED ,Unable to reset my password,5
+CN-1784-CT-0112,2026-07-07T05:56:00+00:00, CHAT , Sales ,A009,86,747,abandoned,Please call me back,3
+CN-1784-CT-0008,2026-07-03T13:28:00+00:00,chat, Support ,,72,719,callback,I was charged twice for the same order,3
+CN-1784-CT-0023,2026-07-05T18:46:00+00:00,email,technical,A005,199,723, TRANSFERRED ,Please call me back,1
+CN-1784-CT-0094,2026-07-07T09:57:00+00:00,,retention,A004,167,753,transferred,I was charged twice for the same order,
+CN-1784-CT-0094,2026-07-01T08:44:00+00:00,,sales,A004,9,706, RESOLVED ,The previous agent transferred me,3
+CN-1784-CT-0077,2026-07-08T11:53:00+00:00, EMAIL , Sales ,A010,186,500,resolved,I think this transaction is fraud,4
+CN-1784-CT-0025,2026-07-07T07:44:00+00:00, VOICE ,billing,A004,99,281,callback,Need help with my account,4
+CN-1784-CT-0089,2026-07-07T02:19:00+00:00,social,support,A006,191,592,resolved,The issue is now resolved,3
+CN-1784-CT-0033,2026-07-02T08:38:00+00:00,, Sales ,A004,147,808,unresolved,Question about a new subscription,
+CN-1784-CT-0027,2026-07-01T07:51:00+00:00, CHAT ,billing,A011,148,668,resolved,,3
+CN-1784-CT-0039,2026-07-07T13:47:00+00:00,chat, Billing ,A010,129,297,abandoned,The application is not loading,
+CN-1784-CT-0047,2026-07-07T15:10:00+00:00,,,A005,-19,707,unresolved,Need help with my account,4
+CN-1784-CT-0096,2026-07-03T15:08:00+00:00,social, Billing ,A012,unknown,422,resolved,Please explain the latest invoice,3
+CN-1784-CT-0073,2026-07-07T06:01:00+00:00,chat,billing,A011,205,129,callback,Unable to reset my password,
+CN-1784-CT-0023,2026-07-05T11:30:00+00:00,social, Billing ,A008,163,164,resolved,Please explain the latest invoice,4
+CN-1784-CT-0114,2026-07-08T06:14:00+00:00,chat, Billing ,A012,208,605,transferred,Question about a new subscription,
+CN-1784-CT-0068,2026-07-08T07:13:00+00:00, CHAT , Billing ,,6,836,transferred,Please explain the latest invoice,
+CN-1784-CT-0092,2026-07-06T15:05:00+00:00,voice,,,42,-2,unresolved,I think this transaction is fraud,4
+CN-1784-CT-0025,2026-07-05T23:19:00+00:00, CHAT ,billing,A011,121,566,abandoned,The application is not loading,1
+CN-1784-CT-0114,03/07/2026 03:05,chat,sales,A010,145,495, RESOLVED ,Need help with my account,5
+CN-1784-CT-0071,2026-07-08T23:59:00+00:00,email,retention,A002,unknown,305,unresolved,Please process a refund,2
+CN-1784-CT-0077,2026-07-05T10:38:00+00:00,voice,technical,A004,69,525, RESOLVED ,The application is not loading,1
+CN-1784-CT-0096,2026-07-01T10:27:00+00:00,chat,billing,A011,109,858,callback,Please process a refund,2
+CN-1784-CT-0158,2026-07-04T00:37:00+00:00,voice,billing,A007,121,181,resolved,The application is not loading,2
+CN-1784-CT-0056,2026-07-03T14:07:00+00:00, VOICE ,,A001,114,676,resolved,Please explain the latest invoice,4
+CN-1784-CT-0179,2026-07-07T21:59:00+00:00,chat,support,A003,135,774, RESOLVED ,Please process a refund,1
+CN-1784-CT-0138,2026-07-05T06:25:00+00:00, EMAIL , Billing ,A005,50,495, TRANSFERRED ,Unable to reset my password,3
+CN-1784-CT-0061,2026-07-03T12:59:00+00:00, EMAIL ,technical,A005,29,805,callback,Question about a new subscription,1
+CN-1784-CT-0069,2026-07-05T03:49:00+00:00, EMAIL ,sales,,167,22,abandoned,,5
+CN-1784-CT-0127,2026-07-04T11:56:00+00:00,social,retention,A010,146,122,abandoned,The issue is now resolved,
+CN-1784-CT-0129,2026-07-03T17:58:00+00:00, CHAT ,sales,,72,66,callback,I want to know the current plan,5
+CN-1784-CT-0068,2026-07-06T19:28:00+00:00,voice, Sales ,A005,107,586,resolved,,3.5
+CN-1784-CT-0073,2026-07-01T15:09:00+00:00, EMAIL ,technical,A004,117,727, TRANSFERRED ,The previous agent transferred me,5
+CN-1784-CT-0159,2026-07-06T19:22:00+00:00, CHAT ,billing,A003,112,689,callback,Please call me back,0
+CN-1784-CT-0085,2026-07-07T23:22:00+00:00, EMAIL ,retention,A012,144,225, RESOLVED ,Unable to reset my password,2
+CN-1784-CT-0129,2026-07-06T20:40:00+00:00, EMAIL , Technical ,,46,815, RESOLVED ,Unable to reset my password,3
+CN-1784-CT-0062,2026-07-02T06:43:00+00:00,social,support,,6,45,unresolved,Question about a new subscription,3
+CN-1784-CT-0055,2026-07-07T04:44:00+00:00,email, Sales ,A002,98,553,abandoned,Please call me back,1
+CN-1784-CT-0149,2026-07-05T13:29:00+00:00,, Technical ,A005,102,384,abandoned,Unable to reset my password,4
+CN-1784-CT-0179,2026-07-05T03:43:00+00:00,, Sales ,A001,102,268,unresolved,I want to know the current plan,3
+CN-1784-CT-0113,2026-07-04T20:22:00+00:00,voice, Technical ,A004,38,439,callback,The previous agent transferred me,4
+CN-1784-CT-0014,2026-07-01T22:39:00+00:00,, Support ,A005,188,885,callback,Unable to reset my password,
+CN-1784-CT-0026,2026-07-04T07:53:00+00:00,voice,sales,A008,39,596,callback,The application is not loading,1
+CN-1784-CT-0109,2026-07-04T22:34:00+00:00, EMAIL , Technical ,A006,208,447,abandoned,Please call me back,5
+   ,2026-07-02T01:10:00+00:00,email,technical,A006,209,535,unresolved,,1
+CN-1784-CT-0129,2026-07-03T20:51:00+00:00, VOICE ,support,A011,156,485, TRANSFERRED ,Please process a refund,
+CN-1784-CT-0046,04/07/2026 16:55,voice, Sales ,A001,181,637, TRANSFERRED ,Question about a new subscription,4
+CN-1784-CT-0170,2026-07-02T03:52:00+00:00,social,sales,A004,52,507,unresolved,The previous agent transferred me,
+CN-1784-CT-0150,2026-07-02T08:32:00+00:00, CHAT ,retention,A003,44,361, TRANSFERRED ,The issue is now resolved,
+CN-1784-CT-0023,2026-07-07T11:41:00+00:00,social, Billing ,A003,11,504,callback,Please process a refund,1
+CN-1784-CT-0097,2026-07-06T22:49:00+00:00,voice, Billing ,A006,-20,704,unresolved,I think this transaction is fraud,
+CN-1784-CT-0102,2026-07-03T04:53:00+00:00, VOICE ,sales,A011,192,356,abandoned,Need help with my account,5
+CN-1784-CT-0114,2026-07-06T23:29:00+00:00,chat,sales,A011,94,523,callback,,
+CN-1784-CT-0169,2026-07-08T07:55:00+00:00,,support,A002,58,0,abandoned,I want to know the current plan,3
+CN-1784-CT-0086,2026-07-01T06:57:00+00:00,social,technical,A004,70,603,abandoned,The issue is now resolved,0
+CN-1784-CT-0076,2026-07-03T05:45:00+00:00, VOICE ,billing,A012,64,183, TRANSFERRED ,Question about a new subscription,
+CN-1784-CT-0058,2026-07-03T15:33:00+00:00,social, Sales ,A012,127,873,abandoned,The application is not loading,3
+CN-1784-CT-0051,2026-07-06T06:35:00+00:00,social, Support ,A005,36,463,unresolved,,4
+CN-1784-CT-0176,2026-07-03T01:41:00+00:00,, Support ,A001,34,41,unresolved,Need help with my account,
+CN-1784-CT-0168,2026-07-08T08:55:00+00:00, CHAT , Sales ,A007,51,849, RESOLVED ,Please explain the latest invoice,2
+CN-1784-CT-0014,2026-07-06T12:38:00+00:00,social, Sales ,A009,110,618,callback,Please call me back,2
+CN-1784-CT-0022,2026-07-08T07:12:00+00:00,voice, Sales ,A011,212,686,transferred,Please process a refund,3
+CN-1784-CT-0123,2026-07-01T19:28:00+00:00, EMAIL ,technical,,68,508,callback,The previous agent transferred me,4
+CN-1784-CT-0036,2026-07-05T05:52:00+00:00,,technical,A001,45,534,resolved,The issue is now resolved,3
+CN-1784-CT-0176,03/07/2026 11:28,,support,,34,0,unresolved,Please process a refund,4
+   ,2026-07-06T09:55:00+00:00,email, Billing ,A002,156,834,resolved,The previous agent transferred me,5
+CN-1784-CT-0073,2026-07-04T09:56:00+00:00,email,sales,,114,0,abandoned,Please explain the latest invoice,3
+CN-1784-CT-0131,2026-07-05T19:14:00+00:00,chat,,A005,74,57,unresolved,,0
+CN-1784-CT-0049,2026-07-05T10:20:00+00:00, VOICE , Support ,,216,625,callback,I was charged twice for the same order,4
+CN-1784-CT-0129,2026-07-03T05:46:00+00:00, CHAT ,support,A012,37,592,abandoned,,
+CN-1784-CT-0012,2026-07-02T09:54:00+00:00, VOICE , Billing ,A004,32,607,unresolved,I think this transaction is fraud,3
+CN-1784-CT-0114,2026-07-06T21:31:00+00:00,,support,,101,211,resolved,Please process a refund,
+CN-1784-CT-0057,2026-07-05T04:18:00+00:00,voice, Technical ,A004,2,0,abandoned,Need help with my account,2
+CN-1784-CT-0028,2026-07-02T17:07:00+00:00, CHAT , Technical ,A003,6,576,unresolved,I want to know the current plan,
+CN-1784-CT-0007,2026-07-06T19:19:00+00:00,voice,retention,A006,110,437, TRANSFERRED ,I want to know the current plan,2
+CN-1784-CT-0175,2026-07-04T07:34:00+00:00,social, Technical ,A004,95,498,unresolved,,
+CN-1784-CT-0069,2026-07-04T02:19:00+00:00, EMAIL ,support,A006,unknown,230, TRANSFERRED ,The issue is now resolved,5
+CN-1784-CT-0060,2026-07-02T20:16:00+00:00,social,billing,A005,191,0,abandoned,The application is not loading,1.9
+CN-1784-CT-0054,2026-07-05T20:45:00+00:00, VOICE , Technical ,A009,214,231, RESOLVED ,I want to know the current plan,3
+CN-1784-CT-0051,2026-07-01T03:49:00+00:00, VOICE ,support,A001,2,539,transferred,The previous agent transferred me,
+CN-1784-CT-0105,2026-07-05T14:53:00+00:00,social,,A001,153,317, RESOLVED ,Please explain the latest invoice,
+CN-1784-CT-0104,2026-07-07T19:23:00+00:00, EMAIL , Technical ,A004,53,192, RESOLVED ,I want to know the current plan,
+CN-1784-CT-0012,2026-07-03T08:57:00+00:00, VOICE ,billing,,196,535,unresolved,The issue is now resolved,2
+CN-1784-CT-0131,2026-07-02T05:58:00+00:00,chat,billing,A004,162,689,abandoned,The previous agent transferred me,
+CN-1784-CT-0004,2026-07-05T23:04:00+00:00,email,sales,A007,60,858,resolved,I was charged twice for the same order,1
+CN-1784-CT-0164,2026-07-05T19:29:00+00:00,email, Support ,,27,430,callback,,4
+CN-1784-CT-0179,2026-07-02T23:13:00+00:00,chat,sales,A005,158,769,transferred,I think this transaction is fraud,3
+CN-1784-CT-0097,2026-07-03T04:23:00+00:00,,retention,A008,125,724,abandoned,Need help with my account,1
+CN-1784-CT-0012,2026-07-05T10:37:00+00:00, VOICE , Support ,A012,187,512, RESOLVED ,Please process a refund,4.3
+CN-1784-CT-0040,2026-07-07T09:40:00+00:00, CHAT , Billing ,A001,170,418, RESOLVED ,Please process a refund,
+CN-1784-CT-0055,2026-07-03T19:09:00+00:00, CHAT ,technical,A012,208,523,callback,Please process a refund,
+CN-1784-CT-0104,2026-07-03T18:52:00+00:00,voice,,A005,91,282,resolved,I think this transaction is fraud,
+CN-1784-CT-0097,2026-07-04T11:50:00+00:00, VOICE , Sales ,,142,875,resolved,Unable to reset my password,1
+CN-1784-CT-0145,2026-07-05T07:40:00+00:00,chat,sales,A003,20,171,unresolved,Question about a new subscription,5
+CN-1784-CT-0174,2026-07-05T08:23:00+00:00,voice, Billing ,A006,191,552, TRANSFERRED ,Please process a refund,2
+CN-1784-CT-0049,2026-07-04T20:38:00+00:00, EMAIL , Support ,A003,102,709,transferred,Unable to reset my password,3
+CN-1784-CT-0096,2026-07-03T14:37:00+00:00,social, Support ,A009,105,8,unresolved,The issue is now resolved,3
+CN-1784-CT-0129,2026-07-03T05:04:00+00:00,chat, Sales ,A011,45,202, TRANSFERRED ,The previous agent transferred me,5
+CN-1784-CT-0161,2026-07-03T18:48:00+00:00,,,A009,131,319,unresolved,I think this transaction is fraud,5
+CN-1784-CT-0138,2026-07-05T11:26:00+00:00,chat,support,A008,80,5,resolved,,4.1
+CN-1784-CT-0017,2026-07-03T17:33:00+00:00,chat,billing,A006,83,0,resolved,Question about a new subscription,3
+CN-1784-CT-0029,2026-07-04T07:57:00+00:00, CHAT , Billing ,A002,134,682,abandoned,,2
+CN-1784-CT-0021,2026-07-05T01:29:00+00:00,email,support,A009,183,506,resolved,I want to know the current plan,
+CN-1784-CT-0073,2026-07-07T05:43:00+00:00,chat,technical,A009,90,335, RESOLVED ,The previous agent transferred me,2
+CN-1784-CT-0173,2026-07-03T01:50:00+00:00,chat,,A004,129,850, TRANSFERRED ,Unable to reset my password,3
+CN-1784-CT-0095,2026-07-06T09:57:00+00:00,voice,technical,A009,201,187,transferred,Need help with my account,2
+   ,2026-07-01T23:34:00+00:00,social,,A009,-18,516, RESOLVED ,Question about a new subscription,1
+CN-1784-CT-0176,2026-07-06T23:26:00+00:00,, Technical ,A010,37,826,resolved,The previous agent transferred me,0
+CN-1784-CT-0023,2026-07-08T05:31:00+00:00, CHAT ,,A008,103,202, TRANSFERRED ,I think this transaction is fraud,2.6
+CN-1784-CT-0034,2026-07-03T13:02:00+00:00,chat, Sales ,A005,102,204, RESOLVED ,I think this transaction is fraud,5
+CN-1784-CT-0105,2026-07-06T22:39:00+00:00,, Billing ,A012,172,894,transferred,I want to know the current plan,5
+CN-1784-CT-0037,2026-07-06T21:16:00+00:00,,retention,A002,-9,6,abandoned,I want to know the current plan,
+CN-1784-CT-0097,2026-07-04T21:17:00+00:00,email,billing,A010,88,430,callback,Please explain the latest invoice,4
+CN-1784-CT-0116,2026-07-07T09:24:00+00:00, CHAT ,technical,A006,212,274, TRANSFERRED ,Please explain the latest invoice,0
+CN-1784-CT-0008,invalid timestamp,email,,A011,167,800,resolved,The application is not loading,1
+CN-1784-CT-0115,2026-07-08T14:24:00+00:00,email,support,,183,835,unresolved,I want to know the current plan,3
+CN-1784-CT-0105,2026-07-08T09:02:00+00:00, EMAIL ,retention,A007,156,792,callback,Unable to reset my password,
+CN-1784-CT-0137,2026-07-03T07:16:00+00:00,, Support ,A008,unknown,72, TRANSFERRED ,I was charged twice for the same order,2
+CN-1784-CT-0078,2026-07-02T16:51:00+00:00,voice,support,A008,125,110,transferred,The previous agent transferred me,4
+CN-1784-CT-0143,2026-07-06T21:56:00+00:00, EMAIL ,,A011,216,864, RESOLVED ,Need help with my account,
+CN-1784-CT-0117,2026-07-03T11:17:00+00:00, CHAT ,sales,A010,202,773,unresolved,I was charged twice for the same order,3
